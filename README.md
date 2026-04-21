@@ -3,9 +3,7 @@
 
 Sistema de Gestão de Equipamentos e Intervenções
 
-Olá! Bem-vindo(a) ao repositóri
-
-o do nosso Sistema de Gestão de Equipamentos e Intervenções. Este projeto nasceu da necessidade de organizar e otimizar a manutenção de ativos, garantindo que nenhum equipamento seja esquecido e que todas as intervenções sejam devidamente registadas e acompanhadas. Acreditamos que uma gestão eficiente é a chave para a longevidade dos equipamentos e a satisfação dos clientes.
+Olá! Bem-vindo(a) ao repositório do nosso Sistema de Gestão de Equipamentos e Intervenções. Este projeto nasceu da necessidade de organizar e otimizar a manutenção de ativos, garantindo que nenhum equipamento seja esquecido e que todas as intervenções sejam devidamente registadas e acompanhadas. Acreditamos que uma gestão eficiente é a chave para a longevidade dos equipamentos e a satisfação dos clientes.
 
 Visão Geral do Projeto
 No coração de muitas operações, a gestão de equipamentos e a coordenação de intervenções de manutenção podem ser um verdadeiro desafio. Este sistema foi concebido para simplificar esse processo, oferecendo uma plataforma robusta e intuitiva para:
